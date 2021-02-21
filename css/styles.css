@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "UTF-8";navbar
 /*!
 * Start Bootstrap - Resume v6.0.2 (https://startbootstrap.com/theme/resume)
 * Copyright 2013-2020 Start Bootstrap
@@ -4006,7 +4006,7 @@ input[type=button].btn-block {
 .navbar-collapse {
   flex-basis: 100%;
   flex-grow: 1;
-  align-items: center;
+  align-items: left;
 }
 
 .navbar-toggler {
